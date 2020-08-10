@@ -7,4 +7,12 @@ Setup Environment and Run Quick Task
 
 2. Install Visual Studio Code. https://code.visualstudio.com/. Or any IDE.
 
-3. Download the starter code using Download as Zip. 
+3. Download the starter code by selecting the green "code" box and clicking "Download as Zip"
+
+4. Open up "Terminal" or "Powershell" and "cd" into the Lesson-1 directory. 
+
+5. Install required modules (we'll go over what these are) by typing "pip install playsound" and "pip install pyobjc"
+
+6. To run the program type "python playsong.py" or "py playsong.py" if on Windows
+
+7. Finally, replace "Promises.wav" with the song of your choice!
