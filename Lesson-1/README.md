@@ -1,5 +1,5 @@
 # Coding-Electronic-Music-1
-Setup nvironment and play an audio file in python
+Setup environment and play an audio file in python
 
 ## Setup
 
