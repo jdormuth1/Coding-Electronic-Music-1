@@ -1,5 +1,5 @@
 # Coding-Electronic-Music-1
-Setup Environment and Run Quick Task
+Setup nvironment and play an audio file in python
 
 ## Setup
 
